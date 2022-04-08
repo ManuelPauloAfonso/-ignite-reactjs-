@@ -1,0 +1,23 @@
+div.list-repository{
+    margin: 40px;
+}
+div.list-repository h1{
+    margin-bottom: 16px;
+}
+div.list-repository ul{
+    list-style: none;
+}
+div.list-repository li  {
+ margin-top: 20px;   
+}
+div.list-repository p{
+    font-size: 14px;
+    color: #444;
+    margin-top: 8px;
+}
+div.list-repository a{
+     display: inline-block;
+     margin-top: 16px;
+     text-decoration: none;
+     color: #8557e6;
+}
